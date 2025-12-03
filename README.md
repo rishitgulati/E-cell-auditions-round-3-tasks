@@ -6,3 +6,7 @@ For Technology and Innovation department:
    File name - AI in college events
 2. Medium level task: Create a working automation for a college society process.
    File name - Automated Event Registration System Christmas 2025 basic workflow
+
+For Brands and Communication department:
+1. Medium level task: Create a clean, minimal poster for any past E-Cell event.
+   File name - Oblivion poster
