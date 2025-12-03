@@ -10,3 +10,5 @@ For Technology and Innovation department:
 For Brands and Communication department:
 1. Medium level task: Create a clean, minimal poster for any past E-Cell event.
    File name - Oblivion poster
+
+   Oblivion poster link on canva - https://www.canva.com/design/DAG6c3YZ0UE/-C5P0MlWUTo_cF6-hncMgg/edit?utm_content=DAG6c3YZ0UE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
