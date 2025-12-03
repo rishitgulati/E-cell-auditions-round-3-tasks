@@ -1,5 +1,6 @@
 # E-cell-auditions-round-3-tasks
 This Github repository consists of the following tasks:
+
 For Technology and Innovation department:
 1. Easy level task: A short document on how AI can help in college events.
    File name - AI in college events
